@@ -7,7 +7,7 @@ class Flora {
     int jumlahDaun;
 }
 
-public class P1No1_F1B021076 {
+public class P1Nomor1_F1B021076 {
     public static void main(String[] args) {
         Flora mangga = new Flora();
         mangga.nama = "Mangga";
