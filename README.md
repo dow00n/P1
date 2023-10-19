@@ -58,7 +58,7 @@ NO5
 
 No 1
 
-https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor1_F1B021137.png
+<image src="https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor1_F1B021137.png">
 
 No 2
 
