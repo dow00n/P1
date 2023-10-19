@@ -62,19 +62,19 @@ No 1
 
 No 2
 
-
+<image src="https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor2_F1B021137.png">
 
 No 3
 
-
+<image src="https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor3_F1B021137.png">
 
 No 4
 
-
+<image src="https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor4_F1B021137.png">
 
 No 5
 
-
+<image src="https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor5_F1B021137.png">
 
 - F1B021008
 
