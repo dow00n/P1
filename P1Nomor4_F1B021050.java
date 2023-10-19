@@ -1,5 +1,5 @@
 //Membuat program inputan dinamis menggunakan studi kasus masing-masing dengan 5 buah objek yang berbeda
-package p1no4_f1b021050;
+package p1nomor4_f1b021050;
 import java.util.Scanner;
 
 class tanaman {
@@ -14,7 +14,7 @@ public tanaman (String nm, int tg, String jns){
 }
 }
 
-public class P1No4_F1B021050 {
+public class P1Nomor4_F1B021050 {
     public static void main(String[] args) {
         Scanner kris = new Scanner(System.in);
 
