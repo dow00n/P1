@@ -86,16 +86,22 @@ No 1
 
 No 2
 
+![image](https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor2_F1B021008.png)
 
 
 No 3
 
-
+![image](https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor3_F1B021008.png)
 
 No 4
 
-
+![image](https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor4.1_F1B021008.png)
+![image](https://https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor4.2_F1B021008.png)
 
 No 5
 
+![image](https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Nomor5_F1B021008.png)
 
+Tugas to do list 
+
+![image](https://raw.githubusercontent.com/dow00n/P1/main/assets/P1Tugas_F1B021008.png)
