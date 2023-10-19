@@ -1,5 +1,5 @@
 //Membuat 5 atribut kemudian tampilkan dalam 2 objek yang berbeda
-package p1no2_f1b021050;
+package p1nomor2_f1b021050;
 class tanaman {
     String nama; 
     String warna;
@@ -8,7 +8,7 @@ class tanaman {
     int tinggi;
 }
 
-public class P1No2_F1B021050 {
+public class P1Nomor2_F1B021050 {
     public static void main(String[] args) {
     tanaman anggrek = new tanaman();
     tanaman tulip = new tanaman();
