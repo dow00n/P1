@@ -28,6 +28,9 @@ No 5
 
 ![image](https://github.com/dow00n/P1/assets/95511540/1ed8a998-2eeb-4de6-aa88-0b2331dcabd8)
 
+Tugas (Kalkulator Kecepatan)
+
+![image](https://github.com/dow00n/P1/assets/95511540/43330ff5-ca50-4fc1-911f-ea826420c004)
 
 -F1B021076
 
