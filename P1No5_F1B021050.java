@@ -1,5 +1,5 @@
 //Membuat Objek Konstruktor dari 2 kelas yang berbeda masing masing 2 objek
-package p1no5_f1b021050;
+package p1nomor5_f1b021050;
 
 class tanaman1 {
     String nama1; 
@@ -49,7 +49,7 @@ public void tampil(){
 }
 }
 
-public class P1No5_F1B021050 {
+public class P1Nomor5_F1B021050 {
     public static void main(String[] args) {
         tanaman1 anggrek = new tanaman1("Anggrek","Ungu","Orchidaceae","Taman",15);
         tanaman1 mawar = new tanaman1 ("Mawar","Merah","Rosaceae","Taman",12);
