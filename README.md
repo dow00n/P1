@@ -2,7 +2,7 @@
 - M Fauzan Al-Farizi ZA        (F1B021076)
 - Muhammad Rafli               (F1B021137)
 - I Komang Krisna D.W.         (F1B021050)
-- I Made Surya Widiajaya Putra (F1B021008)//// Mana punyamu
+- I Made Surya Widiajaya Putra (F1B021008)//// Mana punyamu  //mohon maaf bang punya saya di file src/com/prak1 udah saya up tadi pagi bang, cuma rename baru tadi sore
   <h1>Mana Screenshot yang lain kok dikit banget</h1>
 ## Hasil Screenshot: 
 - F1B021050
@@ -53,6 +53,22 @@ NO4
 NO5
 
 ![image](https://github.com/dow00n/P1/assets/148226231/c6ca400c-b5af-43f2-8d01-59bff546de7c)
+
+
+-F1B021008
+
+NO1
+
+NO2
+
+NO3
+
+NO4
+
+NO5
+
+TUGAS TO DO LIST
+
 
 
 
