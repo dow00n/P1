@@ -1,5 +1,5 @@
 //Membuat class dan method
-package p1no3_f1b021050;
+package p1nomor3_f1b021050;
 class tanaman {
     String nama; 
     String warna;
@@ -26,7 +26,7 @@ public void tampil(){
 }
 }
 
-public class P1No3_F1B021050 {
+public class P1Nomor3_F1B021050 {
     public static void main(String[] args) {
         tanaman anggrek = new tanaman("Anggrek","Ungu","Orchidaceae","Taman",15);
         tanaman tulip = new tanaman("Tulip","Putih","Liliaceae","Taman",10);
