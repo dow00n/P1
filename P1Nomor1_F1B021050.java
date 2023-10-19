@@ -1,5 +1,5 @@
 //Membuat attribut dari sebuah class dan buatkan objek
-package p1no1_f1b021050;
+package p1nomor1_f1b021050;
 class tanaman {
     String nama; 
     String warna;
