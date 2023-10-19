@@ -11,7 +11,7 @@ class Flora1 {
 
 
 
-public class P1No2_F1B021076 {
+public class P1Nomor2_F1B021076 {
     public static void main(String[] args) {
         Flora1 mangga = new Flora1();
         mangga.name = "Mangga";
