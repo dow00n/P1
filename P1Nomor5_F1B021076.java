@@ -24,7 +24,7 @@ class Flora5 {
     }
 }
 
-public class P1No5_F1B021076 {
+public class P1Nomor5_F1B021076 {
     public static void main(String[] args) {
         Flora4 mawarM = new Flora4("Mawar Merah", 50, 10);
         Flora4 matahari = new Flora4("Matahari Kuning", 40, 12);
