@@ -34,7 +34,7 @@ class Flora2 {
 
 
 
-public class P1No3_F1B021076 {
+public class P1Nomor3_F1B021076 {
  
 public static void main(String[] args) {
 
