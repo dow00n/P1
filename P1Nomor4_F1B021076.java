@@ -14,7 +14,7 @@ class Flora3 {
     }
 }
 
-public class P1No4_F1B021076 {
+public class P1Nomor4_F1B021076 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
