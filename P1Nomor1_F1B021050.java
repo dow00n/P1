@@ -6,7 +6,7 @@ class tanaman {
     String jenis;
 }
 
-public class P1No1_F1B021050 {
+public class P1Nomor1_F1B021050 {
     public static void main(String[] args) {
     tanaman anggrek = new tanaman(); 
 
