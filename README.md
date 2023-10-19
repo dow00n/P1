@@ -18,3 +18,29 @@ No 4
 
 
 No 5
+
+-F1B021076
+
+NO1
+
+![image](https://github.com/dow00n/P1/assets/148226231/f4a5b505-75fe-4a9d-8a19-20970dc0516d)
+
+NO2
+
+![image](https://github.com/dow00n/P1/assets/148226231/53a0c777-3144-4de0-95b8-f5cee5245799)
+
+NO3
+
+![image](https://github.com/dow00n/P1/assets/148226231/44aa1051-7f44-41d6-9f33-3c0b7030892e)
+
+NO4
+
+![image](https://github.com/dow00n/P1/assets/148226231/633ba330-fc4a-45e9-a316-2620c1f87a1b)
+
+NO5
+
+![image](https://github.com/dow00n/P1/assets/148226231/c6ca400c-b5af-43f2-8d01-59bff546de7c)
+
+
+
+
