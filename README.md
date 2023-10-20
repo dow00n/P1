@@ -54,6 +54,10 @@ NO5
 
 ![image](https://github.com/dow00n/P1/assets/148226231/c6ca400c-b5af-43f2-8d01-59bff546de7c)
 
+Tugas Pengecek Angka Ganjil/Genap
+<img width="149" alt="image" src="https://github.com/dow00n/P1/assets/148226231/3360d4a4-cce3-4e3a-ba87-025295c78826">
+
+
 - F1B021137
 
 No 1
