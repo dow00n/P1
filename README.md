@@ -56,7 +56,7 @@ NO5
 
 Tugas Pengecek Angka Ganjil/Genap
 
-<img width="149" alt="image" src="https://github.com/dow00n/P1/assets/148226231/3360d4a4-cce3-4e3a-ba87-025295c78826">
+![image](https://github.com/dow00n/P1/assets/148226231/3360d4a4-cce3-4e3a-ba87-025295c78826)
 
 
 
